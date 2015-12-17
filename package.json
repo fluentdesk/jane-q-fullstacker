@@ -1,0 +1,25 @@
+{
+  "name": "jane-q-fullstacker",
+  "version": "0.1.0",
+  "private": true,
+  "description": "An example FRESH-format resume for Jane Q. Fullstacker, a fictitious full-stack software developer.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fluentdesk/jane-q-fullstacker.git"
+  },
+  "keywords": [
+    "resume",
+    "CV",
+    "FRESH",
+    "FluentCV",
+    "schema",
+    "JSON"
+  ],
+  "author": "hacksalot <hacksalot@fluentdesk.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fluentdesk/jane-q-fullstacker/issues"
+  },
+  "main": "resume/jane-resume.json",
+  "homepage": "https://github.com/fluentdesk/jane-q-fullstacker"
+}
