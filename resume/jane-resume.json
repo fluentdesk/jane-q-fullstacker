@@ -10,7 +10,7 @@
   "info": {
     "label": "Senior Developer",
     "characterClass": "Programmer",
-    "brief": "**Full-stack software developer with 6+ years industry experience** specializing in scalable cloud architectures for this, that, and the other. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two-year-old beagle.",
+    "brief": "**Imaginary full-stack software developer with 6+ years industry experience** specializing in scalable cloud architectures for this, that, and the other. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two-year-old beagle.",
     "image": "jane_doe.png",
     "quote": "Be the change you want to see in the world."
   },
@@ -45,6 +45,44 @@
     "code": "94035",
     "country": "US"
   },
+
+  "projects": [
+    {
+      "title": "HackMyResume",
+      "category": "FOSS",
+      "role": "contributor",
+      "url": "http://please.hackmyresume.com",
+      "repo": "https://github.com/hacksalot/hackmyresume",
+      "description": "A resume authoring and analysis tool for OS X, Linux, and Windows.",
+      "summary": "Exemplar user for HackMyResume and FluentCV!",
+      "keywords": ["JavaScript", "Node.js", "cross-platform", "JSON"],
+      "media": [
+        {
+          "category": "download",
+          "url": "https://www.npmjs.com/package/hackmyresume"
+        }
+      ]
+    },
+    {
+      "title": "Augmented Android",
+      "category": "commercial",
+      "role": "co-creator",
+      "url": "http://project.website.com",
+      "repo": "http://repo.website.com",
+      "description": "An augmented reality app for Android.",
+      "summary": "Performed flagship product conceptualization and development.",
+      "keywords": ["Android", "Java", "Xamarin"]
+    },
+    {
+      "title": "Blog",
+      "category": "personal",
+      "role": "creator",
+      "url": "http://myblog.jane.com/blog",
+      "description": "My programming blog. Powered by Jekyll.",
+      "summary": "Conceptualization, design, development, and deployment.",
+      "keywords": ["Jekyll", "Ruby", "HTML 5", "JavaScript", "HTTP", "LAMP"]
+    }
+  ],
 
   "social": [
 
