@@ -3,8 +3,8 @@
   "name": "Jane Q. Fullstacker",
 
   "meta": {
-    "format": "FRESH@0.3.1",
-    "version": "0.2.2"
+    "format": "FRESH@0.4.0",
+    "version": "0.3.0"
   },
 
   "info": {
@@ -187,6 +187,39 @@
       }
     ]
 
+  },
+
+  "affiliation": {
+    "summary": "Member of numerous collegiate and professional groups and organizations.",
+    "history": [
+      {
+        "role": "Member",
+        "organization": "IEEE",
+        "url": "https://www.ieee.org/index.html",
+        "start": "2013-06",
+        "summary": "Member in good standing since 2013-06."
+      },
+      {
+        "role": "Member",
+        "organization": "Apple Developer Network",
+        "url": "https://developer.apple.com/",
+        "summary": "Member of the [Apple Developer program](https://developer.apple.com/) since 2008."
+      },
+      {
+        "role": "Subscriber",
+        "organization": "MSDN",
+        "url": "https://msdn.microsoft.com",
+        "start": "2010",
+        "summary": "Super-Ultra-gold level Ultimate Access MSDN subscriber package with subscription toaster and XBox ping pong racket."
+      },
+      {
+        "role": "Coordinator",
+        "organization": "Campus Coder's Meetup",
+        "start": "2003-02",
+        "end": "2004-04",
+        "summary": "Host of a monthly **campus-wide meetup for CS students**. Code, coffee, and crullers!"
+      }
+    ]
   },
 
   "service": {
