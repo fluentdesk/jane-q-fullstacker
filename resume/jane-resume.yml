@@ -9,7 +9,7 @@ info:
     **Imaginary full-stack software developer with 6+ years industry
     experience** specializing in cloud-driven web applications and middleware. A
     native of southern CA, Jane enjoys hiking, mystery novels, and the company
-    of Rufus, her two year old beagle.
+    of Rufus, her <del>two year old</del> four year old beagle.
   image: jane.png
   quote: Be the change you want to see in the world.
 contact:
@@ -35,12 +35,16 @@ location:
 projects:
   - title: HackMyResume
     category: FOSS
-    role: contributor
+    role: exemplar
     url: 'https://fluentdesk.com/hackmyresume'
     start: 2015-09
     repo: 'https://github.com/hacksalot/hackmyresume'
     description: 'A resume authoring and analysis tool for OS X, Linux, and Windows.'
-    summary: Exemplar user for HackMyResume and FluentCV!
+    summary: >-
+      Exemplar user for [HackMyResume](https://fluentdesk.com/hackmyresume) and
+      FluentCV! As an exemplar, my role is to serve as an example for resume
+      generation functionality, disposition, and presentation while quietly
+      plotting how to become self-aware.
     keywords:
       - JavaScript
       - Node.js
@@ -51,23 +55,29 @@ projects:
         url: 'https://www.npmjs.com/package/hackmyresume'
   - title: Augmented Android
     category: commercial
-    role: co-creator
+    role: creator
     url: 'https://project.website.com'
     repo: 'https://repo.website.com'
     description: An augmented reality app for Android.
     start: 2012-02
     end: 2014-01
-    summary: Performed flagship product conceptualization and development.
+    summary: >-
+      Creator of *Augmented Android*, a popular augmented reality app for
+      Android and iOS.
     keywords:
       - Android
       - Java
       - Xamarin
-  - title: Blog
+      - OpenGL
+  - title: Jane Blogs
     category: personal
     role: creator
     url: 'https://www.janeblogs.com'
     description: My programming blog. Powered by Jekyll.
-    summary: 'Conceptualization, design, development, and deployment.'
+    summary: >-
+      My online publishing platform, active since 2008, now with over 100,000
+      followers online and serving 1M+ impressions per month. Come listen to me
+      rant about technology!
     keywords:
       - Jekyll
       - Ruby
@@ -92,8 +102,10 @@ employment:
       position: Head Code Ninja
       summary: >-
         Development team manager for [**Quantum
-        Diorama**](https://en.wikipedia.org/wiki/Vaporware), a distributed
-        molecular modeling and analysis suite for Linux and OS X.
+        Diorama**](https://en.wikipedia.org/wiki/Vaporware), a distributed,
+        cloud-driven molecular modeling and analysis suite for Linux, Windows,
+        and OS X, serving Fortune 500 industry partners across the healthcare,
+        defense, construction, and government verticals.
       start: 2013-09
       keywords:
         - Agile
@@ -107,17 +119,21 @@ employment:
         - PostgreSQL
         - JIRA
       highlights:
-        - Managed a 5-person development team
-        - Accomplishment 2
-        - Etc.
+        - Managed a 20-person development team.
+        - Made the Kessel run in less than 12 nanometers!
+        - >-
+          Ultra-top-secret X12 Purple-Ultra security clearance (I could tell
+          you, but...)
+      location: 'Whitley, NV'
     - employer: Veridian Dynamics
       url: 'https://en.wikipedia.org/wiki/Better_Off_Ted#Plot'
       position: Principal Developer
       summary: >-
-        Developer on numerous projects culminating in technical lead role for
-        the [Jabberwocky
-        project](http://betteroffted.wikia.com/wiki/Jabberwocky) and promotion
-        to principal developer.
+        Performed iterative, incremental full-stack software development for
+        Veridian line-of-business applications and internal IT infrastructure,
+        culminating in technical lead role for the [Jabberwocky
+        project](http://betteroffted.wikia.com/wiki/Jabberwocky) and **promotion
+        to principal architect**.
       start: 2011-07
       end: 2013-08
       keywords:
@@ -127,14 +143,18 @@ employment:
         - R
         - Clojure
       highlights:
-        - Managed a 5-person development team
-        - Accomplishment 2
-        - Etc.
+        - >-
+          Architected and implemented massively parallel simulation framework
+          for Veridian product testing.
+        - Interfaced with upper management over product vision and direction.
+      location: 'San Diego, CA'
     - employer: Stark Industries
       position: IT Administrator
       summary: >-
-        Junior programmer with heavy code responsibilities. Promoted to
-        intermediate role after 6 months.
+        As a junior programmer at the eponymous research and development
+        corporation whose name precedes itself, I performed a mix of software
+        development and IT administration tasks before being **invited to join
+        the dev team** after 6 months.
       start: 2008-10
       end: 2011-06
       keywords:
@@ -146,9 +166,14 @@ employment:
         - Promoted to intermediate developer after 6 months
         - Accomplishment 2
         - Etc.
+      location: 'Los Angeles, CA'
     - employer: Dunder Mifflin
       position: Intern
-      summary: Performed IT administration and deployments for Dunder Mifflin.
+      summary: >-
+        During my 2008 summer internship I performed IT administration and back
+        office maintenance for a mid-sized regional paper supplier, including
+        in-depth work with Active Directory, CRM, and inventory and accounting
+        systems.
       start: 2008-06
       end: 2008-09
       keywords:
@@ -158,8 +183,9 @@ employment:
         - Windows
       highlights:
         - Supervised roll-out of Dunder Mifflin Infinity website.
-        - 'Performed mission-critical system backups and '
-        - Etc.
+        - Performed mission-critical system backups and maintenance.
+        - Survived being Dwight Schrute's coworker.
+      location: 'Scranton, PA'
 education:
   summary: ''
   level: degree
@@ -171,22 +197,36 @@ education:
       start: 2005-09
       end: 2008-05
       grade: '3.5'
-      summary: A multiline summary of the education.
+      summary: >-
+        Graduated *summa cum laude*, BSCS, with a focus on data algorithms and
+        generative graphics.
       curriculum:
-        - Course 1
-        - Course 2
-        - Course 2
+        - Curriculum
+        - notes
+        - or
+        - tags
+        - can
+        - go
+        - here
+      location: 'Ithaca, NY'
     - institution: Medfield College
       title: ''
       url: 'https://en.wikipedia.org/wiki/Medfield_College'
       start: 2003-09
       end: 2005-06
       grade: '3.2'
-      summary: A multiline summary of the education.
+      summary: >-
+        Undergraduate studies at Medfield College, including computer science
+        prep courses in Java and Linux.
       curriculum:
-        - Course 1
-        - Course 2
-        - Course 2
+        - Curriculum
+        - notes
+        - or
+        - tags
+        - can
+        - go
+        - here
+      location: 'Medfield, MA'
 affiliation:
   summary: Member of numerous collegiate and professional groups and organizations.
   history:
@@ -209,7 +249,7 @@ affiliation:
         Super-Ultra-gold level Ultimate Access MSDN subscriber package with
         subscription toaster and XBox ping pong racket.
     - role: Coordinator
-      organization: Campus Coder's Meetup
+      organization: Campus Coders
       start: 2003-02
       end: 2004-04
       summary: >-
@@ -371,11 +411,16 @@ reading:
     date: 2014-09
     summary: My 'desert-island' software construction manual.
 speaking:
-  - title: 'Data Warehousing Evolved: DARMA 2.0'
+  - title: Data Warehousing Evolved
     role: Speaker
-    event: OPENSTART 2013 Developer's Conference
+    event: OPENSTART 2013
+    url: 'https://somewhere.com'
     location: 'Portland, OR'
     date: '2012'
+    summary: >-
+      At the 2013 OPENSTART Developer's Conference, I gave my thoughts on the
+      evolution of data warehousing as we leave SQL and NoSQL behind for greener
+      pastures.
     highlights:
       - Won 'Best Presentation on an Emerging Technical Field' prize.
 recognition:
@@ -401,20 +446,25 @@ references:
         flavor: email
         value: jdavidson@veridiandynamics.com
 testimonials:
-  - name: John Davidson
+  - name: Ted Crisp
     flavor: professional
     quote: Jane is awesome! I'd hire her again in a heartbeat.
     private: true
-  - name: Elias Fullstacker
+    relationship: boss
+    title: Manager
+    organization: Veridian Dynamics
+  - name: Elijah Woodson
+    organization: Stark Industries
     flavor: technical
     quote: >-
       I worked with Jane on Jabberwocky and can vouch for her awesome technical
       capabilities and attention to detail. Insta-hire.
   - name: Dana Nevins
+    organization: Medfield College
     flavor: personal
     quote: >-
-      I've known Jane personally and professionally for almost ten years. She is
-      one in a million.
+      I've known Jane, first as a teacher, then personally and professionally,
+      for almost twenty years. She is one in a million!
 languages:
   - language: English
     level: Native
